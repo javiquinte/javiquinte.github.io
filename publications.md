@@ -1,0 +1,58 @@
+---
+layout: default
+title:  "Publications"
+categories: publications
+---
+
+Peer-reviewed articles
+----------------------
+
+* Clift, P. D., Brune, S., Quinteros, J. (2015): Climate changes control offshore crustal structure at South China Sea continental margin. - Earth and Planetary Science Letters, 420, p. 66-72. doi:[10.1016/j.epsl.2015.03.032](http://doi.org/10.1016/j.epsl.2015.03.032)
+* Duesterhoeft, E., Quinteros, J., Oberhänsli, R., Bousquet, R., de Capitani, C. (2014): Relative impact of mantle densification and eclogitization of slabs on subduction dynamics: A numerical thermodynamic/thermokinematic investigation of metamorphic density evolution. - Tectonophysics, 637, p. 20-29. doi:[10.1016/j.tecto.2014.09.009](http://doi.org/10.1016/j.tecto.2014.09.009)
+* Quinteros, J., Sobolev, S. V. (2013): Why has the Nazca plate slowed since the Neogene? - Geology, 41, 1, p. 31-34. doi:[10.1130/G33497.1](http://doi.org/10.1130/G33497.1)
+* Melnick, D., Garcin, Y., Quinteros, J., Strecker, M. R., Olago, D., Tiercelin, J. J. (2012): Steady rifting in northern Kenya inferred from deformed Holocene lake shorelines of the Suguta and Turkana basins. - Earth and Planetary Science Letters, 331-332, p. 335-346. doi:[10.1016/j.epsl.2012.03.007](http://doi.org/10.1016/j.epsl.2012.03.007)
+* Quinteros, J., Sobolev, S. V. (2012): Constraining kinetics of metastable olivine in the Marianas slab from seismic observations and dynamic models. - Tectonophysics, 526-529, p. 48-55. doi:[10.1016/j.tecto.2011.11.005](http://doi.org/10.1016/j.tecto.2011.11.005)
+* Ghiglione, M. C., Quinteros, J., Yagupsky, D., Bonillo-Martinez, P., Hlebszevtich, J., Ramos, V. A., Vergani, G., Figuera, D., Quesada, S., Zapata, T. (2010): Structure and tectonic history of the foreland basins of southernmost South America. - Journal of South American Earth Sciences, 29, 2, p. 262-277. doi:[10.1016/j.jsames.2009.07.006](http://doi.org/10.1016/j.jsames.2009.07.006)
+* Quinteros, J., Sobolev, S. V., Popov, A. (2010): Viscosity in transition zone and lower mantle: Implications for slab penetration. - Geophysical Research Letters, 37, L09307. doi:[10.1029/2010GL043140](http://doi.org/10.1029/2010GL043140)
+* Bursztyn, G. H., Quinteros, J., Otero, A. D. (2010): An object oriented version of the Kinematic Laplacian Equation Method. - Mecánica Computacional, XXIX, 21, p. 2095-2110.
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2009): An elasto-visco-plastic model using the Finite Element Method for crustal and lithospheric deformation. - Journal of Geodynamics, 48, 2, p. 83-94. doi:[10.1016/j.jog.2009.06.006](http://doi.org/10.1016/j.jog.2009.06.006)
+* Bursztyn, G., Otero, A. D., Quinteros, J. (2008): Una nueva implementaci ón para las ecuaciones de Navier-Stokes mediante KLE y elementos espectrales. - Mecánica Computacional, XXVII, 30, p. 2367-2383.
+* Quinteros, J., Jacovkis, P. M., Ramos, V. A. (2007): Diseño flexible y modular de modelos numéricos basados en elementos finitos. - Mecánica Computacional, XXVI, 20, p. 1724-1740.
+* Quinteros, J., Jacovkis, P. M., Ramos, V. A. (2006): Evolution of the Upper Crustal Deformation in Subduction Zones. - Journal of Applied Mechanics -Transactions of the ASME, 73, 6, p. 984-994. doi:[10.1115/1.2204962](http://doi.org/10.1115/1.2204962)
+* Quinteros, J., Jacovkis, P. M., Ramos, V. A. (2006): Formación de cordilleras y delaminación litosférica. un modelo elasto-visco-plástico mediante elementos finitos. - Mecánica Computacional, XXV, 29, p. 2669-2686.
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2005): Modelado Numérico para la deformación de la corteza superior en los Andes Australes. - Revista de la Asociación Geológica Argentina, 60, 4, p. 714-723.
+* Quinteros, J., Jacovkis, P. M., Ramos, V. A. (2004): Modelado numérico del levantamiento orogénico y su potencial relación con clima y erosión. - Mecánica Computacional, XXIII, 26, p. 2923-2931.
+
+Conference papers - Abstracts
+-----------------------------
+
+* Brune, S., Clift, P., Quinteros, J. (2015): [Anomalous subsidence at South China Sea rifted margin: Sediments digging their own hole](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-8172.pdf), (Geophysical Research Abstracts, Vol. 17, EGU2015-8172, 2015), General Assembly European Geosciences Union (Vienna, Austria 2015)
+* Thieulot, C., Buiter, S., Brune, S., Davies, R., Duretz, T., Gerbault, M., Glerum, A., Quinteros, J., Schmalholz, S., Spakman, W. (2015): [A two- and three-dimensional numerical comparison study of slab detachment](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-9255.pdf), (Geophysical Research Abstracts, Vol. 17, EGU2015-9255, 2015), General Assembly European Geosciences Union (Vienna, Austria 2015)
+* Wichura, H., Quinteros, J., Melnick, D., Brune, S., Schwanghart, W., Strecker, M. R. (2015): [Evolution of the Lake Victoria basin in the context of coeval rift initiation in East Africa: a 3D numerical model approach](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-5950.pdf), (Geophysical Research Abstracts, Vol. 17, EGU2015-5950, 2015), General Assembly European Geosciences Union (Vienna, Austria 2015)
+* Wichura, H., Quinteros, J., Melnick, D., Brune, S., Schwanghart, W., Strecker, M. R. (2015): [Evolution of the Lake Victoria basin in the context of coeval rift initiation in East Africa: a 3D numerical model approach](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1329051:2/component/escidoc:1329050/Geoberlin_2015.I.pdf), (Exkursionsführer und Veröffentlichungen der Deutschen Gesellschaft für Geowissenschaften ; 255), GeoBerlin (Berlin 2015), p. 397.
+* Quinquis, M., Buiter, S., Tosi, N., Thieulot, C., Maierová, P., Quinteros, J. (2013): A numerical model setup for subduction: From linear viscous to thermomechanical rheologies., (Geophysical Research Abstracts Vol. 15, EGU2013-7255-1, 2013), General Assembly European Geosciences Union (Vienna, Austria 2013).
+* Quinteros, J., Sobolev, S. V. (2012): Why does the convergence rate between Nazca and South America decrease since the Neogene?, Geodynamics Workshop 2012 (Wandlitz, Germany 2012).
+* Quinteros, J., Sobolev, S. V. (2012): Why does the convergence rate between Nazca and South America slow since the Neogene?, AGU 2012 Fall Meeting (San Francisco, USA 2012).
+* Otero, A. D., Quinteros, J. (2011): General Parallel Finite/Spectral-Element oriented C/C++ Framework, (Civil-Comp Press; Paper 68), 2nd International Conference on Parallel, Distributed, Grid and Cloud Computing for Engineering (Stirlingshire, UK 2011). doi:[10.4203/ccp.95.68](http://doi.org/10.4203/ccp.95.68)
+* Quinteros, J., Sobolev, S. V. (2011): Kinetics of metastable olivine constrained by seismic observations and dynamic models, 12th International Workshop on Modeling of Mantle Convection and Lithospheric Dynamics (Groß Dölln, Germany 2011).
+* Quinteros, J., Sobolev, S. V. (2011): Viscosity in transition zone and lower mantle constrained by numerical models, 12th International Workshop on Modeling of Mantle Convection and Lithospheric Dynamics (Groß Dölln, Germany 2011).
+* Quinteros, J., Sobolev, S. V. (2011): Viscosity in transition zone and shallow lower mantle - insight from numerical models of subduction, (Geophysical Research Abstracts Vol. 13, EGU2011-12447, 2011), General Assembly European Geosciences Union (Vienna, Austria 2011).
+* Quinteros, J., Sobolev, S. V. (2010): Constraining viscosity in transition zone and shallow lower mantle from numerical models of subduction, International Geological Modelling Conference - GeoMod 2010 (Lisbon, Portugal 2010).
+* Quinteros, J., Sobolev, S. V. (2010): Did growth of high Andes slow down Nazca plate subduction?, AGU 2010 Fall Meeting (San Francisco, USA 2010).
+* Quinteros, J., Otero, A. D. (2010): Towards parallel solution of continuous problems by means of a general finite/spectral-element oriented C/C++ framework, 39th International Conference on Computer Science and Operational Research (Buenos Aires, Argentina 2010).
+* Quinteros, J., Sobolev, S. V. (2009): The role of fluids in the subduction channel: towards a new thermomechanical model, 11th Workshop on Mantle Convection and Lithospheric Dynamics (Braunwald, Switzerland 2009) (Braunwald, Switzerland).
+* Quinteros, J., Sobolev, S. V. (2009): Towards a new thermomechanical model of subduction channel, (Geophysical Research Abstracts, vol. 11, EGU2009–8684), General Assembly European Geosciences Union (Vienna, Austria 2009) (Vienna, Austria).
+* Quinteros, J., Kind, M. V. (2008): A wavelet-based methodology for data integration in reservoir modeling, VII Congreso de Exploración y Desarrollo de Hidrocarburos (Mar del Plata, Argentina 2008).
+* Quinteros, J., Kind, M. V. (2008): A wavelet-based methodology for data integration in reservoir modeling, VII Congreso de Exploracion y Desarrollo de Hidrocarburos (Mar del Plata, Argentino 2008).
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2008): Constraints on delamination from numerical models, 7th International Symposium on Andean GeoDynamcs (ISAG) (Nice, France 2008) (Nice, France).
+* Kind, M. V., Quinteros, J. (2007): History-matched reservoir model validation based on wavelets methods, Latin American & Caribbean Petroleum Engineering Conference (Buenos Aires, Argentina 2007) (Buenos Aires, Argentina). doi:[10.2118/108124-MS](http://doi.org/10.2118/108124-MS)
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2006): Estudio de la delaminación cortical en un orógeno mediante un modelo numérico, 13th Reunión de Tectónica (San Luis, Argentina 2006) (San Luis, Argentina).
+* Quinteros, J. (2006): Interaction between Deformation and Erosion in the Southern Patagonian Andes, GSA Backbone of the Americas-Patagonia to Alaska (Mendoza, Argentina 2006).
+* Quinteros, J. (2006): Numerical modelling of plate tectonics - the whole world inside equations, Workshop organized by Cátedra Walter Gropius (FADU-UBA) y el Servicio Alemán de Intercambio Académico (Deutscher Akademischer Austauschdienst) (Buenos Aires, Argentina 2006) (Buenos Aires, Argentina).
+* Ghiglione, M. C., Quinteros, J., Hlebszevitsch, J., Yagupsky, D., Haring, C., Vergani, G. (2005): Cuencas del extremo Austral de la Placa Sudamericana: Diferencias, conexiones y una historia en común, 16th Congreso Geológico Argentino (La Plata, Argentina 2005) (La Plata, Argentina).
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2005): A finite element model for the early to middle miocene evolution of the patagonian andes at 47°s, 6th International Symposium on Andean Geodynamics (Barcelona, Spain 2005) (Barcelona, Spain).
+* Quinteros, J., Jacovkis, P. M., Ramos, V. A. (2005): Efectos de la erosión en el levantamiento de los Andes: un modelo matemático, Segundas Jornadas sobre Ecuaciones Diferenciales, Optimización y Análisis Numérico (Córdoba, Argentina 2005) (Córdoba, Argentina).
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2005): Miocene crustal deformation in Southern Patagonian Andes and the rain-shadow effect - Argentina and Chile, (Terra Nostra; 05/1), 19th Colloquium on Latin American Geosciences (Potsdam 2005) (Potsdam, Germany).
+* Quinteros, J., Ramos, V. A., Jacovkis, P. M. (2005): Numerical model for upper crustal deformation, 16th Congreso Geológico Argentino (La Plata, Argentina 2005) (La Plata, Argentina).
+* Quinteros, J., Ruedin, A. M. C. (2004): Minimization of errors in L4-norm for decoding quantized data: its application to quantization of wavelet coefficients, 33rd International Conference on Computer Science and Operational Research (Córdoba, Argentina 2004).
+* Quinteros, J., Ruedin, A. M. C. (2003): Quantization of wavelet coefficients, 32nd Argentine Conference on Computer Science and Operational Research (Buenos Aires, Argentina 2003).
