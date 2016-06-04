@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Software published"
+title:  Software
 categories: publications
 ---
 
