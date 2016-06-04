@@ -30,6 +30,8 @@ Projects
 Argentina
 * co-PI of the new *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
 Potsdam and Universities of Argentina.
+* EUDAT2020
+* EPOS
 
 Teaching and supervising experience
 -----------------------------------
