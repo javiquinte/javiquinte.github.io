@@ -4,14 +4,15 @@ layout: default
 
 ![Profile photo]({{ site.baseurl }}/img/javier.jpg)
 
-I work as Data Manager and IT researcher at [GEOFON
-(GFZ)](http://geofon.gfz-potsdam.de), where he I design and develop new
-protocols and services for the Seismological community.
+I work as Data Manager and IT researcher at
+[GEOFON](http://geofon.gfz-potsdam.de) (seismological data center at
+[GFZ](http://www.gfz-potsdam.de)), where he I design and develop new protocols
+and services for the Seismological community.
 
-As a postdoctoral researcher in Geophysics I worked at the [Geodynamical
-Modelling Section](http://www.gfz-potsdam.de/en/section/geodynamic-modeling/) of
-the Deutsches GFZ Potsdam. The main research topic was the lithosperic
-deformation on subduction zones.
+As a postdoctoral researcher in Geophysics I worked many years at the
+[Geodynamical Modelling
+Section](http://www.gfz-potsdam.de/en/section/geodynamic-modeling/) of GFZ. The
+main research topic was the lithosperic deformation on subduction zones.
 
 For more information you can check out my academic [Resume](/resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
