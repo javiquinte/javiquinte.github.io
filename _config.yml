@@ -4,9 +4,8 @@ author: "Javier Quinteros"
 emailW: javier (at) gfz-potsdam.de
 emailP: javiquinte (at) gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal page where you can find some information about my work, interests
+  and some short posts written by me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://javiquinte.github.io" # the base hostname & protocol for your site
 twitter: QuinteJavi
