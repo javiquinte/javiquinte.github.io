@@ -14,7 +14,7 @@ As a postdoctoral researcher in Geophysics I worked many years at the
 Section](http://www.gfz-potsdam.de/en/section/geodynamic-modeling/) of GFZ. The
 main research topic was the lithosperic deformation on subduction zones.
 
-For more information you can check out my academic [Resume](/resume.html),
+For more information you can check out my academic [Resume](/2-resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
 [Google Scholar
 profile](https://scholar.google.com/citations?user=8o4y6EKnIh0C&hl=es).
