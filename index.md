@@ -19,7 +19,8 @@ download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
 [Google Scholar
 profile](https://scholar.google.com/citations?user=8o4y6EKnIh0C&hl=es).
 
-I developed and mantain some [software projects](/software.html).
+I developed and mantain some [software projects](/4-software.html) which you can
+find interesting.
 
 Contact me on Twitter as [QuinteJavi](http://twitter.com/QuinteJavi) or per
 email either to my personal email account [javiquinte (at)
