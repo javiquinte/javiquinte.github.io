@@ -7,7 +7,8 @@ categories: publications
 Peer-reviewed articles
 ----------------------
 
-* Cyprych, D., Brune, S., Piazolo, S. and Quinteros, J. (2016): Strain localization in polycrystalline material with second phase particles: Numerical modeling with application to ice mixtures. - Geochemistry, Geophysics, Geosystems, In Press.
+* Melnick, D., Moreno, M., Quinteros, J., Baez, J., Deng, Z., Li, S., and Oncken, O. (2017): The super-interseismic phase of the megathrust earthquake cycle in Chile. - Geophysical Research Letters, In Press.
+* Cyprych, D., Brune, S., Piazolo, S. and Quinteros, J. (2016): Strain localization in polycrystalline material with second phase particles: Numerical modeling with application to ice mixtures. - Geochem. Geophys. Geosyst., 17, 3608–3628.doi:[10.1002/2016GC006471](http://doi.org/10.1002/2016GC006471)
 * Clift, P. D., Brune, S., Quinteros, J. (2015): Climate changes control offshore crustal structure at South China Sea continental margin. - Earth and Planetary Science Letters, 420, p. 66-72. doi:[10.1016/j.epsl.2015.03.032](http://doi.org/10.1016/j.epsl.2015.03.032)
 * Duesterhoeft, E., Quinteros, J., Oberhänsli, R., Bousquet, R., de Capitani, C. (2014): Relative impact of mantle densification and eclogitization of slabs on subduction dynamics: A numerical thermodynamic/thermokinematic investigation of metamorphic density evolution. - Tectonophysics, 637, p. 20-29. doi:[10.1016/j.tecto.2014.09.009](http://doi.org/10.1016/j.tecto.2014.09.009)
 * Quinteros, J., Sobolev, S. V. (2013): Why has the Nazca plate slowed since the Neogene? - Geology, 41, 1, p. 31-34. doi:[10.1130/G33497.1](http://doi.org/10.1130/G33497.1)
