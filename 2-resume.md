@@ -20,10 +20,10 @@ topic was the lithosperic deformation on subduction zones.
 
 Present activities
 ------------------
-In parallel to my research activities, I work since 2013 at GEOFON (GFZ),
-where I'm in charge of the design and development of new protocols and
-services for the Seismological community. In particular, I work since a few
-months in the EUDAT2020 and EPOS projects.
+In parallel to my research activities, I work since 2013 at GEOFON (GFZ) as Data
+Manager, where I'm in charge of the design and development of new protocols and
+services for the Seismological community. In particular, I work since more than
+one year in the EUDAT2020 project.
 
 Projects
 --------
@@ -32,12 +32,12 @@ Argentina
 * co-PI of the new *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
 Potsdam and Universities of Argentina.
 * EUDAT2020
-* EPOS
 
 Teaching and supervising experience
 -----------------------------------
 * Invited Professor of the University of Buenos Aires.
-* Supervisor of Master Thesis and currently also supervising three Doctorands in Germany and Argentina.
+* Supervisor of Master Thesis and currently also supervising three PhD students
+in Germany and Argentina.
 
 Research Interests
 ------------------
