@@ -14,4 +14,4 @@ doi:[10.5880/GFZ.2.4/2016.001][webdc3-doi]
 [GitHub Repository][routing-repo]
 
 [webdc3-doi]:   http://dx.doi.org/10.5880/GFZ.2.4/2016.001
-[routing-repo]: https://github.com/GEOFON/routing.git
+[routing-repo]: https://github.com/EIDA/routing.git
