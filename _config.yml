@@ -16,3 +16,5 @@ avatar:  javier.jpg
 # Build settings
 markdown: kramdown
 timezone: Europa/Berlin
+
+theme: jekyll-theme-modernist
