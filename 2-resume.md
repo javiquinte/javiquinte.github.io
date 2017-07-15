@@ -15,15 +15,15 @@ Research
 --------
 As a postdoctoral researcher in Geophysics, I have worked in the Laboratory
 of Andean Tectonics (Univ. of Buenos Aires) and at the Geodynamical
-Modelling Section of the GeoForschungsZentrum Potsdam. The main research
-topic was the lithosperic deformation on subduction zones.
+Modeling Section of the GeoForschungsZentrum Potsdam. The main research
+topic was the lithospheric deformation on subduction zones.
 
 Present activities
 ------------------
 In parallel to my research activities, I work since 2013 at GEOFON (GFZ) as Data
 Manager, where I'm in charge of the design and development of new protocols and
 services for the Seismological community. In particular, I work since more than
-one year in the EUDAT2020 project.
+two years in the EUDAT2020 project.
 
 Projects
 --------
@@ -41,8 +41,9 @@ in Germany and Argentina.
 
 Research Interests
 ------------------
+* Seismology
 * Subduction Zone Dynamics
 * Dynamics of Crust, Lithosphere and Mantle
 * Continental Rifting
-* Numerical Modelling and Code Development
+* Numerical Modeling and Code Development
 * Model Benchmarks
