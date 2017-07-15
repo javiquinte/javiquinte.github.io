@@ -9,8 +9,7 @@ I work as Data Manager and IT researcher at
 [GFZ](http://www.gfz-potsdam.de)), where he I design and develop new protocols
 and services for the Seismological community.
 
-As part of my activities within Seismology I'm currently Chairman of the [EIDA]
-(http://www.orfeus-eu.org/data/eida/) Technical Committee (2017-2019).
+As part of my activities within Seismology I'm currently Chairman of the [EIDA](http://www.orfeus-eu.org/data/eida/) Technical Committee (2017-2019).
 
 As a postdoctoral researcher in Geophysics I worked many years at the
 [Geodynamical Modeling
