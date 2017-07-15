@@ -22,7 +22,10 @@ Present activities
 ------------------
 In parallel to my research activities, I work since 2013 at GEOFON (GFZ) as Data
 Manager, where I'm in charge of the design and development of new protocols and
-services for the Seismological community. In particular, I work since more than
+services for the Seismological community.
+I'm very active in the seismological community, being currently the Chairman of
+the EIDA Technical Committee (2017-2019).
+In particular, I work since more than
 two years in the EUDAT2020 project.
 
 Projects
