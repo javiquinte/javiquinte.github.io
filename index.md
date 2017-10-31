@@ -5,18 +5,24 @@ layout: default
 ![Profile photo]({{ site.baseurl }}/img/javier.jpg)
 
 I work as Data Manager and IT researcher at
-[GEOFON](http://geofon.gfz-potsdam.de) (seismological data center at
-[GFZ](http://www.gfz-potsdam.de)), where he I design and develop new protocols
-and services for the Seismological community.
+[GEOFON](http://geofon.gfz-potsdam.de) (seismological data centre at
+[GFZ](http://www.gfz-potsdam.de)), where I design and develop new protocols
+and services for the seismological community.
 
-As part of my activities within Seismology I'm currently Chairman of the [EIDA](http://www.orfeus-eu.org/data/eida/) Technical Committee (2017-2019).
+As part of my activities within Seismology I'm currently Chairman of the
+[EIDA](http://www.orfeus-eu.org/data/eida/structure/) Technical Committee (2017-2019).
+
+I collaborate regularly with various groups of the Research Data Alliance (RDA).
+Currently we are wrapping up the activities done at the [Research Data Collections WG]
+(https://www.rd-alliance.org/groups/research-data-collections-wg.html) in a document
+with [Recommendation on Research Data Collections](https://www.rd-alliance.org/group/research-data-collections-wg/outcomes/rda-research-data-collections-wg-recommendations)
 
 As a postdoctoral researcher in Geophysics I worked many years at the
-[Geodynamical Modeling
+[Geodynamic Modelling
 Section](http://www.gfz-potsdam.de/en/section/geodynamic-modeling/) of GFZ. And
 I still keep doing research as a part-time activity. My main research topic is
 the lithospheric deformation on subduction zones and the thermo-mechanical
-modeling for different scientific disciplines.
+modelling for different scientific disciplines.
 
 For more information you can check out my academic [Resume](/2-resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
