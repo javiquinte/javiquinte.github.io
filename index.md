@@ -13,9 +13,8 @@ As part of my activities within Seismology I'm currently Chairman of the
 [EIDA](http://www.orfeus-eu.org/data/eida/structure/) Technical Committee (2017-2019).
 
 I collaborate regularly with various groups of the Research Data Alliance (RDA).
-Currently we are wrapping up the activities done at the [Research Data Collections WG]
-(https://www.rd-alliance.org/groups/research-data-collections-wg.html) in a document
-with [Recommendation on Research Data Collections](https://www.rd-alliance.org/group/research-data-collections-wg/outcomes/rda-research-data-collections-wg-recommendations)
+Currently we are wrapping up the activities done at the [Research Data Collections WG](https://www.rd-alliance.org/groups/research-data-collections-wg.html) in a document
+with [Recommendations on Research Data Collections](https://www.rd-alliance.org/group/research-data-collections-wg/outcomes/rda-research-data-collections-wg-recommendations)
 
 As a postdoctoral researcher in Geophysics I worked many years at the
 [Geodynamic Modelling
