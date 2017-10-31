@@ -12,4 +12,4 @@ I've done in the last years.
 
 The race course was beautiful and I was lucky and had a great performance, considering that I'm a recent runner.  ;-)
 
-![Race Course - Great 10K Berlin]({{ "/static/great10k-berlin.png" | absolute_url }})
+![Race Course - Great 10K Berlin]({{ "/static/great10k-berlin.jpg" | absolute_url }})
