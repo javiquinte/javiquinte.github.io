@@ -15,7 +15,7 @@ Research
 --------
 As a postdoctoral researcher in Geophysics, I have worked in the Laboratory
 of Andean Tectonics (Univ. of Buenos Aires) and at the Geodynamical
-Modeling Section of the GeoForschungsZentrum Potsdam. The main research
+Modelling Section of the GeoForschungsZentrum Potsdam. The main research
 topic was the lithospheric deformation on subduction zones.
 
 Present activities
@@ -48,5 +48,5 @@ Research Interests
 * Subduction Zone Dynamics
 * Dynamics of Crust, Lithosphere and Mantle
 * Continental Rifting
-* Numerical Modeling and Code Development
+* Numerical Modelling and Code Development
 * Model Benchmarks
