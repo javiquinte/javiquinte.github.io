@@ -10,7 +10,7 @@ I work as Data Manager and IT researcher at
 and services for the seismological community.
 
 As part of my activities within Seismology I'm currently Chairman of the
-[EIDA](ETC) Technical Committee (2017-2019).
+[EIDA Technical Committee](ETC) (2017-2019).
 
 I collaborate regularly with various groups of the Research Data Alliance (RDA).
 Currently we are wrapping up the activities done at the [Research Data Collections WG](RDA-DCWG) in a document
