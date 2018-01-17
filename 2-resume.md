@@ -30,10 +30,12 @@ two years in the EUDAT2020 project.
 
 Projects
 --------
-* Head of a *Helmholtz International Research Group* (2013-2016) with partners in
-Argentina
+* EOSC-hub
+* Geo-Data-Node
 * co-PI of the new *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
 Potsdam and Universities of Argentina.
+* Head of a *Helmholtz International Research Group* (2013-2016) with partners in
+Argentina
 * EUDAT2020
 
 Teaching and supervising experience
