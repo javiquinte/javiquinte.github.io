@@ -10,8 +10,11 @@ Software
 * Bianchi, Marcelo; Evans, Peter L.; Heinloo, Andres; Quinteros, Javier (2015): WebDC3 Web Interface. GFZ Data Services.
 doi:[10.5880/GFZ.2.4/2016.001][webdc3-doi]
 
-* Routing Service, Javier Quinteros, 2015.
+* Quinteros, Javier (2017): Routing Service: A data centre federation for the seismological community. GFZ German Research Centre for Geosciences. doi:[10.5880/gfz.2.4.2017.001][routing-doi]
+[Documentation][routing-doc]
 [GitHub Repository][routing-repo]
 
 [webdc3-doi]:   http://dx.doi.org/10.5880/GFZ.2.4/2016.001
 [routing-repo]: https://github.com/EIDA/routing.git
+[routing-doi]:  http://dx.doi.org/10.5880/gfz.2.4.2017.001
+[routing-doc]:  https://routing.readthedocs.io/en/latest/
