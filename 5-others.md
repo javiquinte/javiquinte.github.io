@@ -10,7 +10,7 @@ Some of my interests or hobbies are:
 * Literature
 * Running
 * Movies
-* Football (fan of [San Lorenzo de Almagro](CASLA) and [Barcelona](FCB))
+* Football (fan of [San Lorenzo de Almagro][CASLA] and [Barcelona][FCB])
 
 [CASLA]:      http://sanlorenzo.com.ar
 [FCB]:        http://fcbarcelona.es
