@@ -10,21 +10,21 @@ I work as Data Manager and IT researcher at
 and services for the seismological community.
 
 As part of my activities within Seismology I'm currently Chairman of the
-[EIDA Technical Committee](ETC) (2017-2019).
+[EIDA Technical Committee][ETC] (2017-2019).
 
 I collaborate regularly with various groups of the Research Data Alliance (RDA).
-Currently we are wrapping up the activities done at the [Research Data Collections WG](RDA-DCWG) in a document
-with [Recommendations on Research Data Collections](DCWG-Recommend)
+Currently we are wrapping up the activities done at the [Research Data Collections WG][RDA-DCWG] in a document
+with [Recommendations on Research Data Collections][DCWG-Recommend]
 
 As a postdoctoral researcher in Geophysics I worked many years at the
-[Geodynamic Modelling Section](Sec2.5) of GFZ. And I still keep doing research
+[Geodynamic Modelling Section][Sec2.5] of GFZ. And I still keep doing research
 as a part-time activity. My main research topic is the lithospheric deformation
 on subduction zones and the thermo-mechanical modelling for different scientific
 disciplines.
 
 For more information you can check out my academic [Resume](/2-resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
-[Google Scholar profile](Scholar-JQ).
+[Google Scholar profile][Scholar-JQ].
 
 I developed and maintain some [software projects](/4-software.html) which you can
 find interesting.
