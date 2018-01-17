@@ -24,8 +24,7 @@ disciplines.
 
 For more information you can check out my academic [Resume](/2-resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
-[Google Scholar
-profile](Scholar-JQ).
+[Google Scholar profile](Scholar-JQ).
 
 I developed and maintain some [software projects](/4-software.html) which you can
 find interesting.
