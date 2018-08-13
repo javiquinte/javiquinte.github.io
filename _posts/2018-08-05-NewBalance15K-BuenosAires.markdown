@@ -7,7 +7,7 @@ categories: Running
 My first experience in an official race in Buenos Aires, where I was born and raised, showed me a different side of
 the runner's community.
 
-I was considering to take part in a race during my holidays and the [New Balance 15K](http://nbraceseries.com.ar/15Kba/) was a good chance. However, there was a small issue related to a certificate issued by a doctor, which proves you are in
+I was considering to take part in a race during my holidays and the [New Balance 15K](http://nbraceseries.com.ar/15Kba/) was a good chance. However, there was a small problem related to a certificate issued by a doctor, which proves you are in
 good health condition to take part in it. Usually that's just bureaucracy, but not if you have no health insurance in
 that country. After asking some people I realised that it could be more complicated than I thought.
 
@@ -18,10 +18,6 @@ Unfortunately, the maximum number of participants was reached one day later and 
 the next training session to thank again for the help and to let them know that I could not take part in the race.
 
 -- No way! Come with us. We will meet at this corner at 6 AM and we still have free places in our cars. Two other members
-also haven't registered and they will sneak into the race start zone. We have a safe place to leave your clothes as
-well as food and drinks after the race.
-
---- No way! Come with us. We will meet at this corner at 6 AM and we still have free places in our cars. Two other members
 also haven't registered and they will sneak into the race start zone. We have a safe place to leave your clothes as
 well as food and drinks after the race.
 
