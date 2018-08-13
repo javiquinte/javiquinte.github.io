@@ -17,7 +17,11 @@ They were very, but very friendly and arranged everything for me. "Solidarity be
 Unfortunately, the maximum number of participants was reached one day later and the registration was closed. I went to
 the next training session to thank again for the help and to let them know that I could not take part in the race.
 
-- No way! Come with us. We will meet at this corner at 6 AM and we still have free places in our cars. Two other members
+-- No way! Come with us. We will meet at this corner at 6 AM and we still have free places in our cars. Two other members
+also haven't registered and they will sneak into the race start zone. We have a safe place to leave your clothes as
+well as food and drinks after the race.
+
+--- No way! Come with us. We will meet at this corner at 6 AM and we still have free places in our cars. Two other members
 also haven't registered and they will sneak into the race start zone. We have a safe place to leave your clothes as
 well as food and drinks after the race.
 
