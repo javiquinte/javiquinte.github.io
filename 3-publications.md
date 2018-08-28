@@ -34,6 +34,10 @@ Peer-reviewed articles
 Conference papers - Abstracts
 -----------------------------
 
+* Cauzzi C., Clinton J., Custódio S., Haslinger F., Luzi L., Meier T., Melis N., Michelini A., Pedersen H., Quinteros J., Sleeman R., Tilmann F. (2018): ORFEUS Data Services and Products: The Cornerstone of Seismic Data Distribution in Europe. In 36th General Assembly of the European Seismological Commission (Valletta, Malta).
+* Koymans M., Fares M., Trani L., Quinteros J., Nagoe C. (2018): FAIRytale - Towards FAIR Seismological Data Management in the European Integrated Data Archive (EIDA). In 36th General Assembly of the European Seismological Commission (Valletta, Malta).
+* Radosavljevic B., Bertelmann R., Elger K., Haberland C., Hemmleb S., Muñoz G., Quinteros J., Strollo A. (2018): GEO-DATA-NODE: Applying Lessons from Data Management beyond the Seismological Community. In 36th General Assembly of the European Seismological Commission (Valletta, Malta).
+* Quinteros J., Hemmleb S., Strollo A. (2018): Data Policies definition for a Seismological Data Centre. The GEOFON Example. In 36th General Assembly of the European Seismological Commission (Valletta, Malta).
 * Bunakov, V., Quinteros, J. and Reijnhoudt, L. (2018): Data provenance service prototype for collaborative data infrastructure. In Fourth International Conference on Big Data, Small Data, Linked Data and Open Data. In press (Athens, Greece).
 * Elger, K., Ulbricht, D., Bertelmann, R. and Quinteros, J. (2018): [Data, Samples, Software, Texts - publishing Services at GFZ German Research Centre for Geosciences](http://meetingorganizer.copernicus.org/EGU2018/EGU2018-????.pdf). In Geophysical Research Abstracts. In press (Vienna, Austria).
 * Wichura, H., Quinteros, J., Melnick, D., Brune, S., Schwanghart, W., Strecker, M. R. (2018): [Formation of Lake Victoria during coeval rifting in East Africa: a 3-D thermomechanical modeling approach](http://meetingorganizer.copernicus.org/EGU2018/EGU2018-8516.pdf). In Geophysical Research Abstracts. In press (Vienna, Austria).
