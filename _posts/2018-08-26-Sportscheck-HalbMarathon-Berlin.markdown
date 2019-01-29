@@ -11,6 +11,7 @@ I had trained for a couple of months to improve my time compared to my previous 
 After some hours of googling possible causes I found that these were muscles called "Popliteo" and that it was a not so unusual injure in small runners (no, I'm not tall...). The most effective recommendation was to stay inactive and elongate a lot. And that's exactly what I did: stay on my chair and put my legs in a chair next to me for the rest of the week. The other recommendation was to run with short steps, but that could be particularly challenging when you are so automatized on a particular running technique.
 
 In the end, I went to the race, run with short steps (I felt quite weird), and made my best time ever! Even much less than what I could expect in the best case scenario. It helped a lot that it was not so crowded and that the other runners after some km had a very good pace.
+Probably because of the unusual short steps I ended with three fingernails completely black on my feet. A lesson to learn for the next race.
 
 Definitely I'm running it again next year...  :-)
 
