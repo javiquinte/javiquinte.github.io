@@ -21,28 +21,31 @@ topic was the lithospheric deformation on subduction zones.
 Present activities
 ------------------
 In parallel to my research activities, I work since 2013 at GEOFON (GFZ) as Data
-Manager, where I'm in charge of the design and development of new protocols and
-services for the Seismological community.
-I'm very active in the seismological community, being currently the Chairman of
-the EIDA Technical Committee (2017-2019).
-In particular, I work since more than
-two years in the EUDAT2020 project.
+Centre Manager, where I'm in charge of the design and development of new
+protocols and services for the seismological community.
+I'm very active in the seismological community, being currently the Chair of
+the Working Group II of the FDSN. Until some months ago I was also Chair of the
+EIDA Technical Committee (2017-2019).
+
 
 Projects
 --------
+* EOSC-Pillar
+* RISE
 * EOSC-hub
+* SERA
 * Geo-Data-Node
 * co-PI of the new *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
 Potsdam and Universities of Argentina.
 * Head of a *Helmholtz International Research Group* (2013-2016) with partners in
 Argentina
 * EUDAT2020
+* NERA
 
 Teaching and supervising experience
 -----------------------------------
 * Invited Professor of the University of Buenos Aires.
-* Supervisor of Master Thesis and currently also supervising three PhD students
-in Germany and Argentina.
+* Supervisor of Master Thesis and currently also supervising a PhD student.
 
 Research Interests
 ------------------
