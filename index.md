@@ -4,13 +4,15 @@ layout: default
 
 ![Profile photo]({{ site.baseurl }}/img/javier.jpg)
 
-I work as Data Manager and IT researcher at
+I work as Data Centre Manager and researcher at
 [GEOFON](http://geofon.gfz-potsdam.de) (seismological data centre at
 [GFZ](http://www.gfz-potsdam.de)), where I design and develop new protocols
 and services for the seismological community.
 
-As part of my activities within Seismology I'm currently Chairman of the
-[EIDA Technical Committee][ETC] (2017-2019).
+As part of my activities within Seismology I'm currently Chair of the
+[Working Group II](https://www.fdsn.org/wg/wgII/) of the [FDSN](https://www.fdsn.org/)
+and until some months ago I was also Chair of the [EIDA Technical Committee][ETC]
+(2017-2019).
 
 I collaborate regularly with various groups of the Research Data Alliance (RDA).
 Currently we are wrapping up the activities done at the [Research Data Collections WG][RDA-DCWG] in a document
