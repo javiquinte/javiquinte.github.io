@@ -18,4 +18,4 @@ avatar:  javier.jpg
 markdown: kramdown
 timezone: Europa/Berlin
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
