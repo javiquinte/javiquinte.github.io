@@ -56,6 +56,19 @@
             </a>
           </li>
           {% endif %}
+          
+          {%- if site.instagram -%}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram }}">
+              <svg class="svg-icon">
+                <use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}">
+                </use>
+              </svg>
+              <span class="username">{{ site.instagram }}
+              </span>
+            </a>
+          </li>
+          {%- endif -%}
         </ul>
       </div>
 
