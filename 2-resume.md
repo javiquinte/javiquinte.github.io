@@ -35,7 +35,7 @@ Projects
 * EOSC-hub
 * SERA
 * Geo-Data-Node
-* co-PI of the new *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
+* co-PI of the *International Research Training Group (StRATEGy)* (DFG 2015-2020) between the University of
 Potsdam and Universities of Argentina.
 * Head of a *Helmholtz International Research Group* (2013-2016) with partners in
 Argentina
@@ -45,13 +45,13 @@ Argentina
 Teaching and supervising experience
 -----------------------------------
 * Invited Professor of the University of Buenos Aires.
-* Supervisor of Master Thesis and currently also supervising a PhD student.
+* Supervisor of Master Thesis and PhD students.
 
 Research Interests
 ------------------
+* Data Management in Science
 * Seismology
+* Software development
 * Subduction Zone Dynamics
 * Dynamics of Crust, Lithosphere and Mantle
-* Continental Rifting
-* Numerical Modelling and Code Development
-* Model Benchmarks
+* Numerical Modelling
