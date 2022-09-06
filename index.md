@@ -1,6 +1,6 @@
 ---
 layout: default
-person: 
+person: Javier
 ---
 
 ![Profile photo]({{ site.baseurl }}/img/javier-2020.jpeg)
