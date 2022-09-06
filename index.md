@@ -1,5 +1,6 @@
 ---
 layout: default
+person: 
 ---
 
 ![Profile photo]({{ site.baseurl }}/img/javier-2020.jpeg)
@@ -15,7 +16,7 @@ and until some months ago I was also Chair of the [EIDA Technical Committee][ETC
 (2017-2019).
 
 I collaborate regularly with various groups of the Research Data Alliance (RDA).
-Currently we are wrapping up the activities done at the [Research Data Collections WG][RDA-DCWG] in a document
+Currently, we are wrapping up the activities done at the [Research Data Collections WG][RDA-DCWG] in a document
 with [Recommendations on Research Data Collections][DCWG-Recommend]
 
 As a postdoctoral researcher in Geophysics I worked many years at the
