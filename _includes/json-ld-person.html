@@ -16,7 +16,15 @@
         "birthDate": "17-05-1973",
         "birthPlace": "San Martín, Buenos Aires, Argentina",
         "nationality:": ["Argentina", "Germany"],
-        "workLocation": "Albert-Einstein-Str. 42-46, 14473, Potsdam, Germany",
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry" : "Germany",
+              "addressLocality": "Potsdam",
+              "postalCode": "14473",
+              "streetAddress": "Albert-Einstein-Str. 42-46"
+        },
         "email": "javier (at) quinteros.eu"
     }
 </script>
