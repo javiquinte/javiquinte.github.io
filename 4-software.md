@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Software
-software: 
+software: software
 categories: publications
 ---
 
