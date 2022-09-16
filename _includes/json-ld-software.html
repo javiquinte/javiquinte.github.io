@@ -1,7 +1,9 @@
 <script type="application/ld+json">
-{
+[{
     "@context": "http://schema.org",
     "@type": "SoftwareApplication",
+    "name": "dastools",
+    "applicationCategory": "Seismology",
     "operatingSystem": "Linux",
     "softwareVersion": "0.7.3",
     "downloadUrl": "https://pypi.org/project/dastools/#files",
@@ -45,5 +47,118 @@
         },
         "email": "javier (at) gfz-potsdam.de"
     }
+},
+{
+    "@context": "http://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Routing Service",
+    "applicationCategory": "Seismology",
+    "operatingSystem": "Linux",
+    "softwareVersion": "1.2.1",
+    "downloadUrl": "https://github.com/EIDA/routing/releases/tag/v1.2.1.post1",
+    "abstract": "This service provides routing information for distributed data centres, in the case where multiple different seismic data centres offer access to data and products using compatible types of services. Examples of the data and product objects are seismic timeseries waveforms, station inventory, or quality parameters from the waveforms. The European Integrated Data Archive (EIDA) is an example of a set of distributed data centres (the EIDA „nodes“). EIDA have offered Arclink and Seedlink services for many years, and now offers FDSN web services, for accessing their holdings. In keeping with the distributed nature of EIDA, these services could run at different nodes or elsewhere; even on computers from normal users. Depending on the type of service, these may only provide information about a reduced subset of all the available waveforms. To be effective, the Routing Service must know the locations of all services integrated into a system and serve this information in order to help the development of smart clients and/or services at a higher level, which can offer the user an integrated view of the entire system (EIDA), hiding the complexity of its internal structure. The service is intended to be open and able to be queried by anyone without the need of credentials or authentication.",
+    "creditText": "Quinteros, Javier (2017): Routing Service: A data centre federation for the seismological community. V. 1.1.1. GFZ Data Services. https://doi.org/10.5880/gfz.2.4.2017.001",
+    "copyrightHolder": {
+        "@type":  "Organization",
+        "name": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, Potsdam, Germany"
+    },
+    "copyrightNotice": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, Potsdam, Germany",
+    "copyrightYear": "2017",
+    "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "DOI",
+            "value": "10.5880/gfz.2.4.2017.001"
+        },
+    "license": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "author": {
+        "@type": "Person",
+        "name": "Javier Quinteros",
+        "image": "{{ site.baseurl }}/img/javier-2020.jpeg",
+        "givenName": "Javier",
+        "familyName": "Quinteros",
+        "affiliation": "Deutsches GFZ Potsdam",
+        "jobTitle": "GEOFON Data Centre Manager",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "0000-0001-9993-4003"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address":
+            {
+                "@type": "PostalAddress",
+                "addressCountry" :"Germany",
+                "addressLocality": "Potsdam",
+                "postalCode": "14473",
+                "streetAddress": "Albert-Einstein-Str. 42-46"
+            }
+        },
+        "email": "javier (at) gfz-potsdam.de"
+    }
+},
+{
+    "@context": "http://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "WebDC3",
+    "applicationCategory": "Seismology",
+    "operatingSystem": "Linux",
+    "softwareVersion": "1.1",
+    "downloadUrl": "https://github.com/EIDA/webdc3/releases/tag/v1.1",
+    "abstract": "WebDC3 is a web interface working on top of SeisComP3 standard seismological services (http://geofon.gfz-potsdam.de/software/webdc3/). It is AJAX-based and allows users to conveniently discover seismic stations and explore events in seismic catalogues, build and submit requests for data and metadata and finally download the results in different formats. Requests can be built using either absolute time windows or by station-event combinations suitable for different data processing pipelines. Furthermore, data requests and downloading of their results can be made in separated steps, allowing for larger requests and better supporting users with low bandwidth or unstable connections. WebDC3 functions in the style of a previous webdc service implemented at GFZ. The new web interface runs as a Python web application using the Web Server Gateway Interface (WSGI). It has been adopted by a number of seismic agencies.",
+    "creditText": "Bianchi, Marcelo; Evans, Peter L.; Heinloo, Andres; Quinteros, Javier (2015): WebDC3 Web Interface. GFZ Data Services. doi:10.5880/GFZ.2.4/2016.001",
+    "copyrightHolder": {
+        "@type":  "Organization",
+        "name": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, Potsdam, Germany"
+    },
+    "copyrightNotice": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, Potsdam, Germany",
+    "copyrightYear": "2015",
+    "screenshot": "https://geofon.gfz-potsdam.de/software/webdc3/generic-overview.png",
+    "softwareHelp": "https://geofon.gfz-potsdam.de/software/webdc3/webinterface.pdf",
+    "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "DOI",
+            "value": "10.5880/GFZ.2.4/2016.001"
+        },
+    "license": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "author": [{
+        "@type": "Person",
+        "name": "Marcelo Bianchi",
+        "givenName": "Marcelo",
+        "familyName": "Bianchi",
+        "affiliation": "Deutsches GFZ Potsdam"
+    },
+    {
+        "@type": "Person",
+        "name": "Peter L. Evans",
+        "givenName": "Peter L.",
+        "familyName": "Evans",
+        "affiliation": "Deutsches GFZ Potsdam",
+        "email": "pevans (at) gfz-potsdam.de"
+    },
+    {
+        "@type": "Person",
+        "name": "Andres Heinloo",
+        "givenName": "Andres",
+        "familyName": "Heinloo",
+        "affiliation": "Deutsches GFZ Potsdam",
+        "email": "andres (at) gfz-potsdam.de"
+    },
+    {
+        "@type": "Person",
+        "name": "Javier Quinteros",
+        "image": "{{ site.baseurl }}/img/javier-2020.jpeg",
+        "givenName": "Javier",
+        "familyName": "Quinteros",
+        "affiliation": "Deutsches GFZ Potsdam",
+        "jobTitle": "GEOFON Data Centre Manager",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "0000-0001-9993-4003"
+        },
+        "email": "javier (at) gfz-potsdam.de"
+    }]
 }
+]
 </script>
