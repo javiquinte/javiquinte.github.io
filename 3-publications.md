@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  "Publications"
+title:  Publications
 categories: publications
+publications: publications
 ---
 
 Peer-reviewed articles
