@@ -43,6 +43,34 @@
           </li>
           {% endif %}
 
+          {%- if site.mastodon -%}
+          <li>
+            <a rel="me" href="https://mastodon.online/{{ site.mastodon }}">
+              <span class="icon  icon--mastodon">
+              <svg class="svg-icon">
+                <use xlink:href="{{ '/static/minima-social-icons.svg#mastodon' | relative_url }}">
+                </use>
+              </svg>
+              </span>
+              <span class="username">{{ site.mastodon }}
+              </span>
+            </a>
+          </li>
+
+          {%- if site.instagram -%}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram }}">
+              <span class="icon  icon--instagram">
+              <svg class="svg-icon">
+                <use xlink:href="{{ '/static/minima-social-icons.svg#instagram' | relative_url }}">
+                </use>
+              </svg>
+              </span>
+              <span class="username">{{ site.instagram }}
+              </span>
+            </a>
+          </li>
+
           {% if site.stackoverflow %}
           <li>
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow }}">
@@ -57,19 +85,6 @@
           </li>
           {% endif %}
           
-          {%- if site.instagram -%}
-          <li>
-            <a href="https://instagram.com/{{ site.instagram }}">
-              <span class="icon  icon--instagram">
-              <svg class="svg-icon">
-                <use xlink:href="{{ '/static/minima-social-icons.svg#instagram' | relative_url }}">
-                </use>
-              </svg>
-              </span>
-              <span class="username">{{ site.instagram }}
-              </span>
-            </a>
-          </li>
           {%- endif -%}
         </ul>
       </div>
