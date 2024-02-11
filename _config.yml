@@ -19,4 +19,4 @@ avatar:  javier-2020.jpeg
 markdown: kramdown
 timezone: Europa/Berlin
 
-theme: jekyll-theme-minimal
+theme: minima
