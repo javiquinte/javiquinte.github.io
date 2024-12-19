@@ -23,13 +23,15 @@ Present activities
 In parallel to my research activities, I work since 2013 at GEOFON (GFZ) as Data
 Centre Manager, where I'm in charge of the design and development of new
 protocols and services for the seismological community.
-I'm very active in the seismological community, being currently the Chair of
-the Working Group II of the FDSN. Until some months ago I was also Chair of the
-EIDA Technical Committee (2017-2019).
+I'm very active in the seismological community, being since 2019 the Chair of
+the Working Group II of the FDSN and since 2025 part of the EIDA Management Board as GFZ representative.
+Until some months ago I was also Chair of the EIDA Technical Committee (2017-2019).
 
 
 Projects
 --------
+* Geo-INQUIRE
+* Submerse
 * EOSC-Pillar
 * RISE
 * EOSC-hub
