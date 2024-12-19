@@ -7,7 +7,7 @@ person: Javier
 
 I work as Data Centre Manager and researcher at
 [GEOFON](http://geofon.gfz-potsdam.de) (seismological data centre at
-[GFZ](http://www.gfz-potsdam.de)), where I design and develop new protocols
+[GFZ](https://www.gfz.de)), where I design and develop new protocols
 and services for the seismological community.
 
 As part of my activities within Seismology I'm currently Chair of the
@@ -20,10 +20,7 @@ Currently, we are wrapping up the activities done at the [Research Data Collecti
 with [Recommendations on Research Data Collections][DCWG-Recommend]
 
 As a postdoctoral researcher in Geophysics I worked many years at the
-[Geodynamic Modelling Section][Sec2.5] of GFZ. And I still keep doing research
-as a part-time activity. My main research topic is the lithospheric deformation
-on subduction zones and the thermo-mechanical modelling for different scientific
-disciplines.
+[Geodynamic Modelling Section][Sec2.5] of GFZ.
 
 For more information you can check out my academic [Resume](/2-resume.html),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
@@ -32,10 +29,10 @@ download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
 I developed and maintain some [software projects](/4-software.html) which you can
 find interesting.
 
-Contact me on Instagram as [aboutjavier](https://www.instagram.com/aboutjavier/) or per email either to my personal email account [javier (at) quinteros.eu](mailto:javier (at) quinteros.eu) or my work account [javier (at) gfz-potsdam.de](mailto:javier (at) gfz-potsdam.de).
+Contact me on Instagram as [aboutjavier](https://www.instagram.com/aboutjavier/) or per email either to my personal email account [javier (at) quinteros.eu](mailto:javier (at) quinteros.eu) or my work account [javier (at) gfz.de](mailto:javier (at) gfz.de).
 
 [ETC]:            http://www.orfeus-eu.org/data/eida/structure/
 [RDA-DCWG]:       https://www.rd-alliance.org/groups/research-data-collections-wg.html
 [DCWG-Recommend]:   https://www.rd-alliance.org/group/research-data-collections-wg/outcomes/rda-research-data-collections-wg-recommendations
-[Sec2.5]:         http://www.gfz-potsdam.de/en/section/geodynamic-modeling/
+[Sec2.5]:         https://www.gfz.de/en/section/geodynamic-modeling/
 [Scholar-JQ]:     https://scholar.google.com/citations?user=8o4y6EKnIh0C&hl=es
