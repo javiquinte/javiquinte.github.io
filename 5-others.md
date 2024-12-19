@@ -12,5 +12,5 @@ Some of my interests or hobbies are:
 * Movies
 * Football (fan of [San Lorenzo de Almagro][CASLA] and [Barcelona][FCB])
 
-[CASLA]:      http://sanlorenzo.com.ar
-[FCB]:        http://fcbarcelona.es
+[CASLA]:      https://sanlorenzo.com.ar
+[FCB]:        https://fcbarcelona.es
