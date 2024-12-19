@@ -7,6 +7,8 @@ publications: publications
 
 Peer-reviewed articles
 ----------------------
+* Pedersen, H., Schaeffer, J., Haslinger, F., Casey, R., Quinteros, J., Wyborn, L., D’Anastasio, E., Hanson, J. B. and Carter, J. (submitted): Report on DOI, licence and citation uptake for seismological waveform data after 10 years of implementation effort. Seismica.
+* Schaeffer, J., Pedersen, H., Bienkowski, J., Evangelidis, C., Petrakopoulos, V., Quinteros, J., Strollo, A. and ORFEUS-EIDA Technical Committee and Management Board. (2024): Data Delivery Indicators in EIDA: Designing a Consistent Metrics System in a Distributed Services Environment. Data Science Journal, 19: 51, pp. 1–19. doi:[10.5334/dsj-2024-051](https://doi.org/10.5334/dsj-2024-051)
 * Quinteros J., Carter J. A., Schaeffer J., Trabant C., Pedersen H. A. (2021): Exploring Approaches for Large Data in Seismology: User and Data Repository Perspectives - Seismological Research Letters. doi:[10.1785/0220200390](https://doi.org/10.1785/0220200390).
 * Quinteros J., Strollo A., Evans P. L., Hanka W., Heinloo A., Hemmleb S., Hillmann L., Jaeckel K-H., Kind R., Saul J., Zieke T., and Tilmann F. (2021): The GEOFON Program in 2020 - Seismological Research Letters. doi:[10.1785/0220200415](https://doi.org/10.1785/0220200415).
 * Strollo A., et al (2021): EIDA: the European Integrated Data Archive and service infrastructure within ORFEUS - Seismological Research Letters. doi:[10.1785/0220200413](https://doi.org/10.1785/0220200413).
