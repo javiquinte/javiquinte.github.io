@@ -6,7 +6,7 @@ person: Javier
 ![Profile photo]({{ site.baseurl }}/img/javier-2020.jpeg)
 
 I work as Data Centre Manager and researcher at
-[GEOFON](http://geofon.gfz-potsdam.de) (seismological data centre at
+[GEOFON](https://geofon.gfz-potsdam.de) (seismological data centre at
 [GFZ](https://www.gfz.de)), where I design and develop new protocols
 and services for the seismological community.
 
@@ -31,7 +31,7 @@ find interesting.
 
 Contact me on Instagram as [aboutjavier](https://www.instagram.com/aboutjavier/) or per email either to my personal email account [javier (at) quinteros.eu](mailto:javier (at) quinteros.eu) or my work account [javier (at) gfz.de](mailto:javier (at) gfz.de).
 
-[ETC]:            http://www.orfeus-eu.org/data/eida/structure/
+[ETC]:            https://www.orfeus-eu.org/data/eida/structure/
 [RDA-DCWG]:       https://www.rd-alliance.org/groups/research-data-collections-wg.html
 [DCWG-Recommend]:   https://www.rd-alliance.org/group/research-data-collections-wg/outcomes/rda-research-data-collections-wg-recommendations
 [Sec2.5]:         https://www.gfz.de/en/section/geodynamic-modeling/
