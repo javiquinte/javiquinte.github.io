@@ -29,7 +29,9 @@ download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
 I developed and maintain some [software projects](/4-software.html) which you can
 find interesting.
 
-Contact me on Instagram as [aboutjavier](https://www.instagram.com/aboutjavier/) or per email either to my personal email account [javier (at) quinteros.eu](mailto:javier (at) quinteros.eu) or my work account [javier (at) gfz.de](mailto:javier (at) gfz.de).
+Contact me on Bluesky as [@quinteros.eu](https://bsky.app/profile/quinteros.eu) or via email either to my personal
+email account [javier (at) quinteros.eu](mailto:javier (at) quinteros.eu) or my work account
+[javier (at) gfz.de](mailto:javier (at) gfz.de).
 
 [ETC]:            https://www.orfeus-eu.org/data/eida/structure/
 [RDA-DCWG]:       https://www.rd-alliance.org/groups/research-data-collections-wg.html
