@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 ---
 
 I work as Data Centre Manager and researcher at
