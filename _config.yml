@@ -8,14 +8,19 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://javiquinte.github.io" # the base hostname & protocol for your site
 
+repository: "javiquinte/javiquinte.github.io"
+
 github_username: javiquinte
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-# remote_theme: mmistakes/minimal-mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+remote_theme: mmistakes/minimal-mistakes
+# remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+teaser: "/assets/images/default.png"
+logo: "/assets/images/carpinchito.png"
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -35,11 +40,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-
 author:
   name   : "Javier Quinteros"
-  avatar : "./img/javier-2020.jpeg"
+  avatar : "/assets/images/javier-2020.jpeg"
   bio    : "Scientist, football fan of San Lorenzo, father of two."
+  location: "Berlin, Germany"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -82,3 +87,16 @@ tag_archive:
   path: /tags/
 
 # stackoverflow: 2705572
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/javiquinte"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/quinteros.eu"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.uy/@javiquinte"
+
