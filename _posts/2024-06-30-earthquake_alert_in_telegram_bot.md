@@ -6,7 +6,7 @@ header:
   teaser: "/assets/images/telegrambot.png"
 gallery:
   - url: /assets/images/telegrambot.png
-    image_path: /assets/images/Sportscheck-Halbmarathon-Berlin2018.png
+    image_path: /assets/images/telegrambot.png
     alt: "Early Alerts in Telegram"
     title: "Early Alerts of Earthquakes in Telegram"
 ---
