@@ -1,0 +1,66 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* ========================
+   Custom overrides
+   ======================== */
+
+$french-blue: #001a70;  // darker, less vivid than the official #002395
+$button-color: #C0504D; // pale/muted red
+
+/* Hero header: show full face, aligned right */
+.page__hero--overlay {
+  background-position: right 5% center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+
+/* All five buttons: same pale red */
+.page__hero--overlay .btn--light-outline,
+.btn--primary {
+  background-color: $button-color;
+  border-color: $button-color;
+  color: #fff;
+}
+
+/* Hero buttons: lighten on hover */
+.page__hero--overlay .btn--light-outline:hover {
+  background-color: lighten($button-color, 8%);
+  border-color: lighten($button-color, 8%);
+  color: #fff;
+}
+
+/* Feature row buttons: fixed color, no change on hover */
+.btn--primary:hover {
+  background-color: $button-color;
+  border-color: $button-color;
+  color: #fff;
+}
+
+/* Footer */
+.page__footer {
+  background-color: $french-blue;
+
+  a {
+    color: #fff;
+
+    &:hover {
+      color: rgba(255, 255, 255, 0.75);
+    }
+  }
+
+  p,
+  li {
+    color: #fff;
+  }
+}
+
+.page__footer-copyright {
+  color: rgba(255, 255, 255, 0.85);
+}
