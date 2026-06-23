@@ -16,11 +16,11 @@ and Co-Chair of the [EIDA Management Board][EMB].
 As a postdoctoral researcher in Geophysics I worked many years at the
 [Geodynamic Modelling Section][Sec2.5] of GFZ.
 
-For more information you can check out my academic [Resume](/2-resume.html),
+For more information you can check out my academic [Resume](/resume/),
 download the [full CV](/static/Quinteros-CV.pdf) in PDF format, or check my
 [Google Scholar profile][Scholar-JQ].
 
-I developed and maintain some [software projects](/4-software.html) which you can
+I developed and maintain some [software projects](/software/) which you can
 find interesting.
 
 Contact me on Bluesky as [@quinteros.eu](https://bsky.app/profile/quinteros.eu) or via email either to my personal
