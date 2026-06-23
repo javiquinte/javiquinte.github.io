@@ -1,8 +1,6 @@
 ---
-layout: default
-title:  Publications
-categories: publications
-publications: publications
+permalink: /publications/
+title: "Publications"
 ---
 
 Peer-reviewed articles

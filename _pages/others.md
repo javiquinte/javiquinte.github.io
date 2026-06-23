@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Other interests
-permalink: /other/
+permalink: /others/
+title: "Others"
 ---
 
 Believe it or not, I have a life apart from my deep interest in IT, Earth Sciences and Numerical Methods.

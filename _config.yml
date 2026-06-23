@@ -1,22 +1,102 @@
 # Site settings
 title: Javier Quinteros' home page
-author: "Javier Quinteros"
-emailW: javier (at) gfz-potsdam.de
+emailW: javier (at) gfz.de
 emailP: javier (at) quinteros.eu
 description: > # this means to ignore newlines until "baseurl:"
   Personal page where you can find some information about my work, interests
   and some short posts written by me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://javiquinte.github.io" # the base hostname & protocol for your site
-instagram: aboutjavier
-twitter: JavierAtGFZ
-github:  javiquinte
-mastodon: javiquinte
-stackoverflow: 2705572
-avatar:  javier-2020.jpeg
+
+repository: "javiquinte/javiquinte.github.io"
+
+github_username: javiquinte
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
 markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+teaser: "/assets/images/default.png"
+logo: "/assets/images/carpinchito.png"
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: Europa/Berlin
 
-theme: minima
+include:
+  - _pages
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Javier Quinteros"
+  avatar : "/assets/images/javier-2020.jpeg"
+  bio    : "Scientist, football fan of San Lorenzo, father of two."
+  location: "Berlin, Germany"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://javier.quinteros.eu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/javiquinte"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/quinteros.eu"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.uy/@javiquinte"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# stackoverflow: 2705572
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/javiquinte"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/quinteros.eu"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.uy/@javiquinte"
+
